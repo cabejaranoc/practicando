@@ -1,0 +1,38 @@
+.Header{
+    background-color: transparent;
+}
+
+.card{
+    background-color: transparent !important;
+    border: 2px solid black !important;
+}
+
+.card-header{
+    color: black !important;
+    border-bottom: 2px solid black !important;
+}
+
+
+#botonstart{
+    color: black;
+    background-color: blanchedalmond;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    padding:10px;
+    border-radius: 20px;
+    border: solid black;
+    text-decoration: none;
+}
+
+#Howplay{
+    color: black;
+    background-color: blanchedalmond;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    padding:10px;
+    border-radius: 20px;
+    border: solid black;
+    text-decoration: none;
+}

@@ -1,0 +1,39 @@
+.CJApp{
+    color: black;
+}
+
+.accordion-button{
+    background-color: rgba(242, 243, 244, 1) !important;
+}
+
+.accordion-button:not(.collapsed){
+    color: #566573 !important;
+    background-color: rgba(174, 214, 241, 1) !important;
+}
+
+.accordion-body{
+    background-color: white !important;
+}
+
+#contenedorP{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgba(242, 243, 244, 0.6);
+    border: 2px solid black;
+   font-family: letrajuego;
+}
+
+.intro{
+    background-color: rgba(242, 243, 244, 0.6);
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: auto;
+
+}
+
+.Figuritas{
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
