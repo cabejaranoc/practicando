@@ -9,8 +9,8 @@ function Header() {
             <Card>
                 <Card.Header className='blockquote text-center'>DIVERSION CON REACT (10)</Card.Header>
                 <Card.Body className='text-center'>
-                    <a href="/proyecto-final-diseno-logico/Cards" id="botonstart">START</a>
-                    <a href="/proyecto-final-diseno-logico/Comojugar" id="Howplay">HOW TO PLAY</a>
+                    <a href="/practicando/Cards" id="botonstart">START</a>
+                    <a href="/practicando/Comojugar" id="Howplay">HOW TO PLAY</a>
                 </Card.Body>
             </Card>
         </div>

@@ -2,7 +2,7 @@
   "name": "ejemplo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cabejaranoc.github.io/proyecto-final-diseno-logico",
+  "homepage": "https://cabejaranoc.github.io/practicando",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
