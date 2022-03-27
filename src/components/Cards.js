@@ -24,7 +24,7 @@ function Cards(params) {
                                 Some quick example text to build on the card title and make up the bulk of
                                 the card's content.
                             </Card.Text>
-                            <Button variant="primary" href='practicando/index'>Ir al mundo</Button>
+                            <Button variant="primary" href='/index'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -38,7 +38,7 @@ function Cards(params) {
                                 Some quick example text to build on the card title and make up the bulk of
                                 the card's content.
                             </Card.Text>
-                            <Button variant="primary" href='practicando/index'>Ir al mundo</Button>
+                            <Button variant="primary" href='/index'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -52,7 +52,7 @@ function Cards(params) {
                                 Some quick example text to build on the card title and make up the bulk of
                                 the card's content.
                             </Card.Text>
-                            <Button variant="primary" href='practicando/index'>Ir al mundo</Button>
+                            <Button variant="primary" href='/index'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
