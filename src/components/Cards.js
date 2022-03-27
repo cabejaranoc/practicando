@@ -16,40 +16,43 @@ function Cards(params) {
             <Row>
                 <Col>
                     <Card className='Cards'>
-                        <Card.Img variant="top" src={imagen1} />
+                        <Card.Img width={171} height={180} variant="top" src={imagen1} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Mundo 1</Card.Title>
+                            <hr class="dropdown-divider" />
                             <Card.Text>
                                 Some quick example text to build on the card title and make up the bulk of
                                 the card's content.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <Button variant="primary" href='practicando/index'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
                 <Col>
                 <Card className='Cards'>
-                        <Card.Img variant="top" src={imagen2} />
+                        <Card.Img width={171} height={180} variant="top" src={imagen2} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Mundo 2</Card.Title>
+                            <hr class="dropdown-divider" />
                             <Card.Text>
                                 Some quick example text to build on the card title and make up the bulk of
                                 the card's content.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <Button variant="primary" href='practicando/index'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
                 <Col>
                 <Card className='Cards'>
-                        <Card.Img variant="top" src={imagen3} />
+                        <Card.Img width={171} height={180} variant="top" src={imagen3} />
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Mundo 3</Card.Title>
+                            <hr class="dropdown-divider" />
                             <Card.Text>
                                 Some quick example text to build on the card title and make up the bulk of
                                 the card's content.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <Button variant="primary" href='practicando/index'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
