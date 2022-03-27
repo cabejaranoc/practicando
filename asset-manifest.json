@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/practicando/static/css/main.0593a74b.css",
-    "main.js": "/practicando/static/js/main.de7a6641.js",
+    "main.css": "/practicando/static/css/main.b54d0206.css",
+    "main.js": "/practicando/static/js/main.ae5b5cab.js",
     "static/js/787.8b2d436a.chunk.js": "/practicando/static/js/787.8b2d436a.chunk.js",
     "static/media/PressStart2P-Regular.ttf": "/practicando/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
     "static/media/avisos.jpg": "/practicando/static/media/avisos.e2eb7f3e3d72d93a8ef9.jpg",
     "static/media/enemigos.jpg": "/practicando/static/media/enemigos.64519c5f2b8abc399ed8.jpg",
     "static/media/frutas.jpg": "/practicando/static/media/frutas.0c57b92e653ee2221130.jpg",
-    "static/media/imagen 2.jpg": "/practicando/static/media/imagen 2.4c6bb81e72ae46e575a3.jpg",
-    "static/media/imagen 3.jpg": "/practicando/static/media/imagen 3.f1b7b37325497997aafe.jpg",
+    "static/media/imagen 1.jpg": "/practicando/static/media/imagen 1.8e078e880b2d8a9f7fb2.jpg",
+    "static/media/imagen 2.jpg": "/practicando/static/media/imagen 2.999bf4755745f3a26a60.jpg",
     "static/media/avatar_1.jpg": "/practicando/static/media/avatar_1.b669e7ab90898e979f6d.jpg",
-    "static/media/imagen 1.jpg": "/practicando/static/media/imagen 1.365814c8587334da0578.jpg",
+    "static/media/imagen 3.jpg": "/practicando/static/media/imagen 3.527928ca52414cadd5d2.jpg",
     "index.html": "/practicando/index.html",
-    "main.0593a74b.css.map": "/practicando/static/css/main.0593a74b.css.map",
-    "main.de7a6641.js.map": "/practicando/static/js/main.de7a6641.js.map",
+    "main.b54d0206.css.map": "/practicando/static/css/main.b54d0206.css.map",
+    "main.ae5b5cab.js.map": "/practicando/static/js/main.ae5b5cab.js.map",
     "787.8b2d436a.chunk.js.map": "/practicando/static/js/787.8b2d436a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0593a74b.css",
-    "static/js/main.de7a6641.js"
+    "static/css/main.b54d0206.css",
+    "static/js/main.ae5b5cab.js"
   ]
 }
