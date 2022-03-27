@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/practicando/static/css/main.b54d0206.css",
-    "main.js": "/practicando/static/js/main.098f192f.js",
+    "main.js": "/practicando/static/js/main.8aa3c7d4.js",
     "static/js/787.8b2d436a.chunk.js": "/practicando/static/js/787.8b2d436a.chunk.js",
     "static/media/PressStart2P-Regular.ttf": "/practicando/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
     "static/media/avisos.jpg": "/practicando/static/media/avisos.e2eb7f3e3d72d93a8ef9.jpg",
@@ -13,11 +13,11 @@
     "static/media/imagen 3.jpg": "/practicando/static/media/imagen 3.527928ca52414cadd5d2.jpg",
     "index.html": "/practicando/index.html",
     "main.b54d0206.css.map": "/practicando/static/css/main.b54d0206.css.map",
-    "main.098f192f.js.map": "/practicando/static/js/main.098f192f.js.map",
+    "main.8aa3c7d4.js.map": "/practicando/static/js/main.8aa3c7d4.js.map",
     "787.8b2d436a.chunk.js.map": "/practicando/static/js/787.8b2d436a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b54d0206.css",
-    "static/js/main.098f192f.js"
+    "static/js/main.8aa3c7d4.js"
   ]
 }
