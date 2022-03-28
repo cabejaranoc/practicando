@@ -20,11 +20,10 @@ function Cards(params) {
                         <Card.Body>
                             <Card.Title>Mundo 1</Card.Title>
                             <hr class="dropdown-divider" />
-                            <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                            <Card.Text>Este es el nivel inicial, ven y descubre las
+                                sorpresas que tenemos para tí.
                             </Card.Text>
-                            <Button variant="primary" href='/practicando/index'>Ir al mundo</Button>
+                            <Button variant="primary" href='https://jipirito.itch.io/prueba-nivel-1' target='_blank'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -35,10 +34,10 @@ function Cards(params) {
                             <Card.Title>Mundo 2</Card.Title>
                             <hr class="dropdown-divider" />
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                En este nivel, el mapa es diferente. recuerda andar con precaución 
+                                y responder correctamente las preguntas.
                             </Card.Text>
-                            <Button variant="primary" href='/practicando/index'>Ir al mundo</Button>
+                            <Button variant="primary" href='https://jipirito.itch.io/nivel-2' target='_blank'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -49,10 +48,10 @@ function Cards(params) {
                             <Card.Title>Mundo 3</Card.Title>
                             <hr class="dropdown-divider" />
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                Este es el nivel final, gracias por participar de esta experiencia, disfruta con nosotros
+                                lo último que tenemos para enseñarte.
                             </Card.Text>
-                            <Button variant="primary" href='/practicando/index'>Ir al mundo</Button>
+                            <Button variant="primary" href='https://jipirito.itch.io/nivel-3' target='_blank'>Ir al mundo</Button>
                         </Card.Body>
                     </Card>
                 </Col>
